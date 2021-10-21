@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1528173575 source:c:\users\chmae\onedrive\desktop\well\main.c
+	"Simulador.h"
+
+1528843574 c:\users\chmae\onedrive\desktop\well\simulador.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Tristto.h"
+
+1528843745 c:\users\chmae\onedrive\desktop\well\tristto.h
+	<windows.h>
+
+1528843745 source:c:\users\chmae\onedrive\desktop\well\tristto.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<pthread.h>
+	"Tristto.h"
+
+1528844962 source:c:\users\chmae\onedrive\desktop\well\simulador.c
+	"Simulador.h"
+
+1528173575 source:c:\users\marcos vinícius\desktop\well shit happens\main.c
+	"Simulador.h"
+
+1528846173 c:\users\marcos vinícius\desktop\well shit happens\simulador.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Tristto.h"
+
+1528843745 c:\users\marcos vinícius\desktop\well shit happens\tristto.h
+	<windows.h>
+
+1528850668 source:c:\users\marcos vinícius\desktop\well shit happens\simulador.c
+	"Simulador.h"
+
+1528843745 source:c:\users\marcos vinícius\desktop\well shit happens\tristto.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<pthread.h>
+	"Tristto.h"
+
+1530068186 source:c:\relâmpago marquinhos\utfpr\prog 1\copa 2018\simulador de sorteio da copa\main.c
+	"Simulador.h"
+
+1530064903 c:\relâmpago marquinhos\utfpr\prog 1\copa 2018\simulador de sorteio da copa\simulador.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Tristto.h"
+
+1528843745 c:\relâmpago marquinhos\utfpr\prog 1\copa 2018\simulador de sorteio da copa\tristto.h
+	<windows.h>
+
+1530067198 source:c:\relâmpago marquinhos\utfpr\prog 1\copa 2018\simulador de sorteio da copa\simulador.c
+	"Simulador.h"
+
+1529180827 source:c:\relâmpago marquinhos\utfpr\prog 1\copa 2018\simulador de sorteio da copa\tristto.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<pthread.h>
+	"Tristto.h"
+

@@ -1,0 +1,72 @@
+///GRUPO A
+        y=41;
+        for(i=0; i<4; i++)
+        {
+            tprintf(1,39,VERDE_CLARO,PRETO,"Grupo A:",aux->select.pais);
+            aux = mostraselecao(*grupoA,i);
+            tprintf(1,y,BRANCO,PRETO,"%s",aux->select.pais);
+            y = y+2;
+        }
+        ///Grupo B
+        y=41;
+        for(i=0; i<4; i++)
+        {
+            tprintf(16,39,VERDE_CLARO,PRETO,"Grupo B:",aux->select.pais);
+            aux = mostraselecao(*grupoB,i);
+            tprintf(16,y,BRANCO,PRETO,"%s",aux->select.pais);
+            y = y+2;
+        }
+        ///GRUPO C
+        y=41;
+        for(i=0; i<4; i++)
+        {
+            tprintf(32,39,VERDE_CLARO,PRETO,"Grupo C:",aux->select.pais);
+            aux = mostraselecao(*grupoC,i);
+            tprintf(32,y,BRANCO,PRETO,"%s",aux->select.pais);
+            y = y+2;
+        }
+        ///GRUPO D
+        y=41;
+        for(i=0; i<4; i++)
+        {
+            tprintf(47,39,VERDE_CLARO,PRETO,"Grupo D:",aux->select.pais);
+            aux = mostraselecao(*grupoD,i);
+            tprintf(47,y,BRANCO,PRETO,"%s",aux->select.pais);
+            y = y+2;
+        }
+        ///GRUPO E
+        y=41;
+        for(i=0; i<4; i++)
+        {
+            tprintf(62,39,VERDE_CLARO,PRETO,"Grupo E:",aux->select.pais);
+            aux = mostraselecao(*grupoE,i);
+            tprintf(62,y,BRANCO,PRETO,"%s",aux->select.pais);
+            y = y+2;
+        }
+        ///GRUPO F
+        y=41;
+        for(i=0; i<4; i++)
+        {
+            tprintf(77,39,VERDE_CLARO,PRETO,"Grupo F:",aux->select.pais);
+            aux = mostraselecao(*grupoF,i);
+            tprintf(77,y,BRANCO,PRETO,"%s",aux->select.pais);
+            y = y+2;
+        }
+        ///GRUPO G
+        y=41;
+        for(i=0; i<4; i++)
+        {
+            tprintf(93,39,VERDE_CLARO,PRETO,"Grupo G:",aux->select.pais);
+            aux = mostraselecao(*grupoG,i);
+            tprintf(93,y,BRANCO,PRETO,"%s",aux->select.pais);
+            y = y+2;
+        }
+        ///GRUPO H
+        y=41;
+        for(i=0; i<4; i++)
+        {
+            tprintf(107,39,VERDE_CLARO,PRETO,"Grupo H:",aux->select.pais);
+            aux = mostraselecao(*grupoH,i);
+            tprintf(107,y,BRANCO,PRETO,"%s",aux->select.pais);
+            y = y+2;
+        }

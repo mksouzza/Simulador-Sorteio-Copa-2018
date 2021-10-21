@@ -1,0 +1,18 @@
+    for(i=1; i<8; i++)
+    {
+        sorteiagrupos(pote1,i,grupoA,grupoB,grupoC,grupoD,grupoE,grupoF,grupoG,grupoH);
+    }
+    for(i=0; i<8; i++)
+    {
+        sorteiagrupos(pote2,i,grupoA,grupoB,grupoC,grupoD,grupoE,grupoF,grupoG,grupoH);
+    }
+    for(i=0; i<8; i++)
+    {
+        sorteiagrupos(pote3,i,grupoA,grupoB,grupoC,grupoD,grupoE,grupoF,grupoG,grupoH);
+    }
+    for(i=0; i<8; i++)
+    {
+        sorteiagrupos(pote4,i,grupoA,grupoB,grupoC,grupoD,grupoE,grupoF,grupoG,grupoH);
+    }
+    
+    , int grupo, ListaSel **grupoA, ListaSel **grupoB, ListaSel **grupoC, ListaSel **grupoD, ListaSel **grupoE, ListaSel **grupoF, ListaSel **grupoG, ListaSel **grupoH
